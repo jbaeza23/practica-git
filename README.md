@@ -1,3 +1,3 @@
-## PRACTICA DE GIT
+## REPOSITORIO DE PRACTICA RAMAS
 
-repositorio de practica para configurar y aprender a usar git.
+practica de git con la rama development
